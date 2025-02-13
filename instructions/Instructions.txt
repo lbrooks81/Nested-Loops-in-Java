@@ -1,0 +1,9 @@
+Recreate this program in Java. Adhere to the constraints listed at the bottom.
+Constraints
+
+    You cannot use global variables.
+        You can still have global constants and objects like Scanner.
+    Utilize local variables.
+        Not all variables should be created in the main() as shown in the flowcharts above.
+    Utilize parameters and returns.
+    Have endOfJob() method close the Scanner.
